@@ -6,7 +6,7 @@ import net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket;
 
 public class NoFall extends Module {
     public NoFall() {
-        super("AnkleInsurance", "Turns terminal velocity into a light inconvenience", Category.PLAYER, true, false, false);
+        super("AnkleInsurance", "Always land on you're feet, like a Mistow *aka a cat*", Category.PLAYER, true, false, false);
     }
 
     @Override
